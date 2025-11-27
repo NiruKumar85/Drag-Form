@@ -121,7 +121,7 @@ npm run preview     # Preview production build
 ### Backend (.env)
 ```
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/synkForms
+MONGODB_URI=mongodb://localhost:5173/DragForms
 JWT_SECRET_KEY=your_secret_key
 ```
 
