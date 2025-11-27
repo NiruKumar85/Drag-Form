@@ -5,7 +5,7 @@ A web application for creating, customizing, and managing no-code dynamic forms 
 ## 🔗 Links
 
 - **Live Preview**: [https://nirukumar85.github.io/Drag-Form/](http://40.81.227.70/)
-- **GitHub Repository**: [https://github.com/opdsbanasya/synkForms.git](https://github.com/opdsbanasya/synkForms.git)
+- **GitHub Repository**: [https://github.com/NiruKumar85/Drag-Form.git](https://github.com/NiruKumar85/Drag-Form.git)
 
 ## 🚀 Tech Stack
 
