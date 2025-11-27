@@ -1,4 +1,4 @@
-# SynkForms - No-Code Dynamic Form Builder
+# DragForms - No-Code Dynamic Form Builder
 
 A web application for creating, customizing, and managing no-code dynamic forms with an intuitive interface.
 
